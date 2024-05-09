@@ -9,10 +9,10 @@
     
  <form action="http://localhost/readskema/read/listdoi.php">
   Instagram Name:<br>
-  <input type="text" name="name" value="">
+  <input type="text" name="name" value="bigandbaggy">
   <br>
   JSON file url:<br>
-  <input type="text" name="link" value="http://localhost/readskema/">
+  <input type="text" name="link" value="C:/Users/User/Downloads/your_instagram_activity/messages/secret_conversations.json">
   <br><br>
   <input type="submit" value="Submit">
 </form> 
